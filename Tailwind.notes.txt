@@ -1,0 +1,9 @@
+
+# Learn by doing [Tailwind-css]
+
+    z-index = z-10,z-30
+    py = padding-top-bottom(y-axis)
+    px = padding-left-right
+    mx-auto left-0 right-0 = way to center using tailwind-css
+    flex flex-col gap-4 = Flex blox (guide page read)
+    hover:underline = hover (apply easy) you can apply all feature which is connected to hover
