@@ -7,3 +7,11 @@
     mx-auto left-0 right-0 = way to center using tailwind-css
     flex flex-col gap-4 = Flex blox (guide page read)
     hover:underline = hover (apply easy) you can apply all feature which is connected to hover
+
+#already registered? sign up now" typically indicates that the user is attempting to register for an account using an email address or username that is already associated with an existing account on the platform.
+
+# RegEx From Validation using javascript 
+- Email RegEx
+- Password RegEx 
+- Name RegEx 
+const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
